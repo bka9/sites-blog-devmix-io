@@ -1,0 +1,5 @@
+baseurl = "http://blog.devmix.io/"
+languageCode = "en-us"
+title = "DevMix"
+theme = "casper"
+PygmentsCodeFences = true
